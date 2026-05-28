@@ -54,13 +54,6 @@ Then open:
 
 - `Dropouts 30 dis..ipynb`
 
-## Current Scope
+## Project Scope
 
-This repository is exploratory and notebook-first.
-
-It does not currently include:
-
-- a reusable analysis package
-- pinned environment files
-- automated report generation scripts
-- committed input data for immediate execution
+This repository is focused on district-level exploratory dropout analysis and visual reporting from spreadsheet-based source data.
